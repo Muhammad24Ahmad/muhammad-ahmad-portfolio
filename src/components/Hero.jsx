@@ -1,5 +1,6 @@
 import resume from "../assets/resume.pdf";
 import profile from "../assets/profile.jpg";
+import ahmad from "../assets/ahmad.jpg";
 
 const targetRoles = [
   "Data Analyst",
